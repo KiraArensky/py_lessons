@@ -25,7 +25,7 @@ py_lessons/
 ## Как использовать
 1. Скачайте или клонируйте репозиторий:
    ```sh
-   git clone https://github.com/KiraArensky/python-lessons.git
+   git clone https://github.com/KiraArensky/py-lessons.git
    ```
 2. Откройте нужную папку с темой, изучите `README.md` и запустите примеры кода.
 3. Выполните предложенные задания.
